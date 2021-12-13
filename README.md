@@ -2,7 +2,7 @@
 
 ![Ganache Account](desktop/Blockchain_1?raw=true "Title")
 
-## [Opened wallet from Ganache account in MyCrypto](desktop/Blockchain_2)
+[Opened wallet from Ganache account in MyCrypto](desktop/Blockchain_2)
 
 ## [Generated new wallet via mnemonic phrase](desktop/Blockchain_3)
 
