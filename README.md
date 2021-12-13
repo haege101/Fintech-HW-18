@@ -1,6 +1,6 @@
 # Fintech-HW-18
 
-![Ganache Account](desktop/Blockchain_1)
+![Ganache Account](desktop/Blockchain_1?raw=true "Title")
 
 ## [Opened wallet from Ganache account in MyCrypto](desktop/Blockchain_2)
 
