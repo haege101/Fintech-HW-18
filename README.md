@@ -1,6 +1,6 @@
 # Fintech-HW-18
 
-![Ganache Account](./Blockchain_1)
+![Ganache Account](../Blockchain_1)
 
 ![Opened wallet from Ganache account in MyCrypto](./Blockchain_2)
 
